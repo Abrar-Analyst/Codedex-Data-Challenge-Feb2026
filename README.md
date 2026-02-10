@@ -5,7 +5,7 @@ This project explores global music streaming trends over the last 15+ years. By 
 
 📂 Dataset Information
 Source: Spotify Global Music Dataset (2009-2025) via Kaggle.
-Description: This dataset contains comprehensive metadata for thousands of tracks, including popularity metrics, artist follower counts, and specific audio features like energy and danceability.
+Description: This dataset contains comprehensive metadata for thousands of tracks, including popularity metrics, artist follower counts, and specific audio features like energy and danceability. You can see my final and updated project on Spotify_analysis (1) file.
 
 
 📈 Visualizations & Key Findings:
